@@ -8,6 +8,18 @@ namespace MinimumSpanningTree
         {
             Console.OutputEncoding = System.Text.Encoding.Unicode;
 
+            SpanningTree spanningTree = new SpanningTree();
+            
+            spanningTree.FindMinimumSpanningTree();
+            
+            Console.WriteLine("Мінімальне кістякове дерево:");
+            foreach (var treeEdge in spanningTree.TreeEdges)
+            {
+                Console.WriteLine(treeEdge.Name + ", вага - " + treeEdge.Weight);
+            }
+            
+            Console.WriteLine($"\nВага мінімального кістякового дерева - {spanningTree.GetTreeWeight()}");
+            
             Console.ReadKey();
         }
     }

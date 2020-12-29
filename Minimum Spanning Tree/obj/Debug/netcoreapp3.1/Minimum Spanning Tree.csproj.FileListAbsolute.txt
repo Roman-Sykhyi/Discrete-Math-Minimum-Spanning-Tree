@@ -1,0 +1,13 @@
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\bin\Debug\netcoreapp3.1\Minimum Spanning Tree.exe
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\bin\Debug\netcoreapp3.1\Minimum Spanning Tree.deps.json
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\bin\Debug\netcoreapp3.1\Minimum Spanning Tree.runtimeconfig.json
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\bin\Debug\netcoreapp3.1\Minimum Spanning Tree.runtimeconfig.dev.json
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\bin\Debug\netcoreapp3.1\Minimum Spanning Tree.dll
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\bin\Debug\netcoreapp3.1\Minimum Spanning Tree.pdb
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\obj\Debug\netcoreapp3.1\Minimum Spanning Tree.csprojAssemblyReference.cache
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\obj\Debug\netcoreapp3.1\Minimum Spanning Tree.AssemblyInfoInputs.cache
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\obj\Debug\netcoreapp3.1\Minimum Spanning Tree.AssemblyInfo.cs
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\obj\Debug\netcoreapp3.1\Minimum Spanning Tree.csproj.CoreCompileInputs.cache
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\obj\Debug\netcoreapp3.1\Minimum Spanning Tree.dll
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\obj\Debug\netcoreapp3.1\Minimum Spanning Tree.pdb
+E:\lpnu\Дискретна математика\Лабораторні\9\Discrete-Math-Minimum-Spanning-Tree\Minimum Spanning Tree\obj\Debug\netcoreapp3.1\Minimum Spanning Tree.genruntimeconfig.cache
